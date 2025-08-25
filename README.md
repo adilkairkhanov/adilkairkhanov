@@ -9,7 +9,6 @@
 - [bug-reports](https://github.com/adilkairkhanov/bug-reports) — примеры баг-репортов (Markdown)  
 - [test-cases](https://github.com/adilkairkhanov/test-cases) — тест-кейсы для разных сценариев  
 - [checklists](https://github.com/adilkairkhanov/checklists) — чек-листы по функционалу и UI  
-- **[manual-testing-practice](https://github.com/adilkairkhanov/manual-testing-practice)** — практические материалы (чек-листы, Lamoda и др.)
 
 
 
