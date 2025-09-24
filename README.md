@@ -24,4 +24,4 @@
 
 📩 adil.kairkhanov@gmail.com  
 🌍 Almaty, Kazakhstan  
-🔗 [hh.ru профиль](https://hh.kz/resume/36cb47daff08ab71ae0039ed1f3843504c3164)
+🔗 [hh.ru профиль](https://hh.kz/resume/7f7883ddff0f46cdb50039ed1f6e664b366641)
